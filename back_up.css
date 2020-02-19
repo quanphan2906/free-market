@@ -1,0 +1,62 @@
+.change-page-buttons{
+    width: 90px;
+    color: white;
+    background-color: #953F01;
+    opacity: 80%;
+    border-radius: 15px;
+    border-width: 0.5px;
+    border-color: #953F01;
+    height: 28px;
+    font-size: 15px;
+    margin: 15px 12px 0px 12px;
+}
+
+#dang-ky-button{
+    width: 200px;
+    height: 36px;
+    border-radius: 28px;
+    font-size: 20px;
+    border-width: 0.5px;
+    box-shadow: 4px 4px 4px #ccc;
+    color: white;
+    margin-top: 48px;
+    align-self: center;
+}
+
+#dang-nhap{
+    width: 90px;
+    background-color: white;
+    border-radius: 15px;
+    border-width: 0.5px;
+    border-color: #953F01;
+    height: 28px;
+    font-size: 15px;
+}
+
+#dang-ky{
+    width: 90px;
+    color: white;
+    background-color: #953F01;
+    border-radius: 15px;
+    border-width: 0.5px;
+    border-color: #953F01;
+    height: 28px;
+    font-size: 15px;
+}
+
+.search-bar-ele{
+    border-radius: 10px;
+    border-width: 0.5px;
+}
+
+#search-bar-1{
+    width: 500px;
+    height: 20px;
+    border-color: black;
+}
+
+#search-bar-2{
+    background-color:  #953F01;
+    color: white;
+    border-color:  #953F01;
+}
